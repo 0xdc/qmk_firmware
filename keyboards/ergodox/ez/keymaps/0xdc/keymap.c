@@ -131,8 +131,8 @@ KEYMAP(
                                            KC_TRNS,
                                   KC_BTN1, KC_TRNS, KC_TRNS,
        // right hand
-       KC_AMPR, KC_ASTR, KC_LPRN, KC_RPRN, KC_LCBC, KC_RCBC, KC_TRNS,
-       KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_LBKT, KC_RBKT, KC_TRNS,
+       KC_AMPR, KC_ASTR, KC_LPRN, KC_RPRN, KC_LCBR, KC_RCBR, KC_TRNS,
+       KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_LBRC, KC_RBRC, KC_TRNS,
                 KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS,
        KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, RESET,   KC_TRNS,
                          KC_MPLY, KC_MNXT, KC_MUTE, KC_VOLD, KC_VOLU,
